@@ -1,0 +1,36 @@
+* {
+    text-align: center;
+    background-color: #1F1D1D;
+    color: #a7a4a4;
+    align-items: center;
+}
+ 
+button {
+    background-color: #a7a4a4;
+    border-radius: 30px;
+    color: white;
+}
+ 
+h1 {
+    color: gray;
+}
+ 
+.quantity {
+    color: white;
+}
+ 
+.image {
+    margin: 3%;
+    position: relative;
+}
+ 
+.streak {
+    position: absolute;
+    top: 17px;
+    left: 50px;
+}
+ 
+ 
+ 
+ 
+
